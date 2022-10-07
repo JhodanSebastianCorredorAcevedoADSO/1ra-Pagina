@@ -4,6 +4,14 @@
     box-sizing: border-box;
     font-family: "Grifinito L";
 }
+body
+{
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 html,  body {
     width: 100%;
